@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
+
+.blueberry{
+  background-color: lightsteelblue;
+}
+.olive{
+  background-color: olive;
+}
+.lemon{
+  background-color: lemonchiffon;
+}
+.rhubarb{
+  background-color: indianred;
+}
+.tomato{
+  background-color: darkred;
+}
+.berry{
+  background-color: seashell;
+}
